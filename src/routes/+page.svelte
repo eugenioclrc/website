@@ -1,8 +1,3 @@
-<script lang="ts">
-	import { ghostHeader } from "$lib/store";
-
-	$ghostHeader = true;
-</script>
 <svelte:head>
 	<title>WEBTR3S CLUB</title>
 </svelte:head>

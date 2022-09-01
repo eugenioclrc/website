@@ -3,5 +3,8 @@
   export let data;
 </script>
 
-<h1>{data.title}</h1>
-<div>{@html data.content}</div>
+<div class="max-w-screen-2xl p-8 mx-auto">
+  <article class="prose">
+    {@html data.content}
+  </article>
+</div>
