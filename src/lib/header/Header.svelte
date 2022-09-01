@@ -56,7 +56,7 @@ let extraHeaderClass = 'text-primary-content';// 'bg-base-100 text-base-content 
           <li><a>Lending</a></li>
         </ul>
       </li>
-      <li><a>Item 3</a></li>
+      <li><a>Seguridad</a></li>
     </ul>
   </div>
   <div class="navbar-end text-right">
