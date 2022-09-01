@@ -37,6 +37,7 @@
 		"daisyui": "^2.24.0",
 		"gray-matter": "^4.0.3",
 		"markdown-it": "^13.0.1",
-		"slugify": "^1.6.5"
+		"slugify": "^1.6.5",
+		"theme-change": "^2.2.0"
 	}
 }
