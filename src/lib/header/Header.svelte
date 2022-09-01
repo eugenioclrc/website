@@ -10,7 +10,10 @@ let extraHeaderClass = 'text-primary-content';// 'bg-base-100 text-base-content 
       </label>
       <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-gray-700 rounded-box w-52">
         <li>
-          <a>Primeros pasos</a>
+          <a>
+            Primeros pasos
+            <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+          </a>
           <ul class="p-2">
             <li><a>Tooling</a></li>
             <li><a>Tutoriales</a></li>
@@ -37,7 +40,10 @@ let extraHeaderClass = 'text-primary-content';// 'bg-base-100 text-base-content 
   <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal p-0">
       <li>
-        <a>Primeros pasos</a>
+        <a>
+          Primeros pasos
+          <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+        </a>
         <ul class="p-2">
           <li><a>Tooling</a></li>
           <li><a>Tutoriales</a></li>
